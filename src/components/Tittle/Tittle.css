@@ -1,0 +1,22 @@
+
+.tittle-wrapper {
+    margin-left: 4.7rem;
+    margin-top: 9.4rem;
+    color: var(--black);
+    font-family: 'Inter', sans-serif;
+    font-size: 2rem;
+}
+
+.tittle-month {
+    font-size: inherit;
+}
+
+.tittle-topic {
+    font-family: 'Playfair Display', serif;
+    font-size: 8.3rem;
+    max-width: 156.2rem;
+}
+
+.tittle-host {
+    font-size: inherit;
+}
