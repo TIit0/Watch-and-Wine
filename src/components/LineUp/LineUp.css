@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;500;600&family=Playfair+Display:wght@900&display=swap');
+
+
+.line-up--wrapper {
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    font-size: 1.6rem;
+    margin-left: 4.7rem;
+}
+
+h4 {
+    margin-bottom: 3rem;
+}

@@ -8,6 +8,7 @@ export default function Tittle() {
             <h1 className="tittle-topic">international Horror Written And directed by woman</h1>
             <h2 className="tittle-host">Hosted by Panda</h2>
             <LinkButton>See in Letterboxd</LinkButton>
+            <h3 className="tittle-movie">Evolution 2015 Lucile Hadžihalilović</h3>
         </div>
     );
 }

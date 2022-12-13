@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;500&family=Playfair+Display:wght@900&display=swap');
+
 
 .tittle-wrapper {
     margin-left: 4.7rem;
@@ -5,6 +7,7 @@
     color: var(--black);
     font-family: 'Inter', sans-serif;
     font-size: 2rem;
+    padding-right: 12rem;
 }
 
 .tittle-month {
@@ -12,6 +15,7 @@
 }
 
 .tittle-topic {
+    text-transform: uppercase;
     font-family: 'Playfair Display', serif;
     font-size: 8.3rem;
     max-width: 156.2rem;
@@ -19,4 +23,16 @@
 
 .tittle-host {
     font-size: inherit;
+}
+
+.tittle-movie {
+    font-family: 'Inter', sans-serif;
+    font-weight: 200;
+    font-size: 2rem;
+    font-style: italic;
+    color: var(--bone);
+    width: 9.6rem;
+    height: 12rem;
+    margin-left: auto;
+    transform:translateY(-20%)
 }
